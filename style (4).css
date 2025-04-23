@@ -1,0 +1,43 @@
+
+body {
+  background: url('https://i.imgur.com/5X9NEtn.jpg') no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Cairo', sans-serif;
+  color: #fff;
+  text-align: center;
+  direction: rtl;
+}
+
+.container {
+  background: rgba(0, 0, 0, 0.7);
+  padding: 2em;
+  margin: 5% auto;
+  width: 90%;
+  max-width: 400px;
+  border-radius: 15px;
+}
+
+.logo {
+  font-size: 2em;
+  font-weight: bold;
+  color: #ffd700;
+  margin-bottom: 1em;
+}
+
+input {
+  width: 90%;
+  padding: 10px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #ffd700;
+  color: #000;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
